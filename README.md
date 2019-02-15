@@ -1,1 +1,1 @@
-![foto] (ZuWilson.jpg)
+![foto](ZuWilson.jpg)
